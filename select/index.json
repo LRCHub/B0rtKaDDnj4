@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "i (REMIX)",
+  "base_artist": "IM@S ALLSTARS+",
+  "createdAt": "2026-03-14T00:37:39.557688Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Screwing You On the Beach At Night (Cape May I Remix?)",
+      "artist": "Bloodhound Gang",
+      "has_synced": false,
+      "path": "select/01_Screwing_You_On_the_Beach_At_Night_(Cape_May_I_Remix_)_Bloodhound_Gang.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pour It Up (feat. Young Jeezy, Rick Ross, Juicy J & T.I.) (Remix)",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/02_Pour_It_Up_(feat._Young_Jeezy,_Rick_Ross,_Juicy_J_&_T.I.)_(Remix)_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Because Of You (Dumont's 'Because Of I' Remix)",
+      "artist": "Skunk Anansie",
+      "has_synced": false,
+      "path": "select/03_Because_Of_You_(Dumont's_'Because_Of_I'_Remix)_Skunk_Anansie.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "What a Girl Wants (D.U.I. Remix)",
+      "artist": "Christina Aguilera",
+      "has_synced": false,
+      "path": "select/04_What_a_Girl_Wants_(D.U.I._Remix)_Christina_Aguilera.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "What the Hell Have I (Remix)",
+      "artist": "Alice In Chains",
+      "has_synced": true,
+      "path": "select/05_What_the_Hell_Have_I_(Remix)_Alice_In_Chains.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Me, Myself & I (remix)",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/06_Me,_Myself_&_I_(remix)_Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Me Myself I (Remix)",
+      "artist": "Beyonce",
+      "has_synced": true,
+      "path": "select/07_Me_Myself_I_(Remix)_Beyonce.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'll Be Lovin' U Long Time (feat. T.I.) [Remix]",
+      "artist": "Mariah Carey",
+      "has_synced": false,
+      "path": "select/08_I'll_Be_Lovin'_U_Long_Time_(feat._T.I.)_[Remix]_Mariah_Carey.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Who Am I? (Remix)",
+      "artist": "Plumb",
+      "has_synced": false,
+      "path": "select/09_Who_Am_I__(Remix)_Plumb.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Bet (feat. T.I.) - Remix",
+      "artist": "Ciara feat. T.I.",
+      "has_synced": true,
+      "path": "select/10_I_Bet_(feat._T.I.)_-_Remix_Ciara_feat._T.I..lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The End Is Over (a.R.D.I. Remix)",
+      "artist": "Two & One feat. Anthya",
+      "has_synced": false,
+      "path": "select/11_The_End_Is_Over_(a.R.D.I._Remix)_Two_&_One_feat._Anthya.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "What the Hell Have I (Remix)",
+      "artist": "Alice in Chains",
+      "has_synced": true,
+      "path": "select/12_What_the_Hell_Have_I_(Remix)_Alice_in_Chains.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Disarm Me (A.R.D.I. Remix)",
+      "artist": "Alexander Popov",
+      "has_synced": false,
+      "path": "select/13_Disarm_Me_(A.R.D.I._Remix)_Alexander_Popov.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "And You and I (Remix)",
+      "artist": "Yes",
+      "has_synced": false,
+      "path": "select/14_And_You_and_I_(Remix)_Yes.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "You and I (Remix)",
+      "artist": "Delegation",
+      "has_synced": false,
+      "path": "select/15_You_and_I_(Remix)_Delegation.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Me Myself I (remix)",
+      "artist": "Beyonce",
+      "has_synced": true,
+      "path": "select/16_Me_Myself_I_(remix)_Beyonce.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Static I (Remix 1)",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/17_Static_I_(Remix_1)_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Can't Sleep Baby (If I) - Remix Radio Version",
+      "artist": "R. Kelly",
+      "has_synced": false,
+      "path": "select/18_I_Can't_Sleep_Baby_(If_I)_-_Remix_Radio_Version_R._Kelly.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "i (REMIX)",
+      "artist": "IM@S ALLSTARS+",
+      "has_synced": false,
+      "path": "select/pl_01_i_(REMIX)_IM@S_ALLSTARS+.txt"
+    }
+  ]
+}
